@@ -1,10 +1,10 @@
 <div align="center">
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2060won"/>
-  
-## 👋 SEUNGWON KIM 👋 
-  
 
+  ## 👋 SEUNGWON KIM 👋 
+
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoosull&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/goosull) 
   <a href="https://goosullog.vercel.app"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Blogger&logoColor=white&"/></a> 
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goosull&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" width = 350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goosull&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ### 🛠 SKILL 🛠
  
