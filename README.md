@@ -31,5 +31,5 @@
   <br>
  
    <img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goosull&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
-   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=goosull&show_icons=true&theme=dracula&hide="/>
+   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=goosull&show_icons=true&theme=dracula&hide="/>
 </div>
