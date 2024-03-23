@@ -33,3 +33,14 @@
    <img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=goosull&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=goosull&show_icons=true&theme=dracula&hide="/>
 </div>
+
+<br/>
+
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+
+|기간|활동|기수|
+|:-:|-:|:-|
+|<sub>2024.03 ~ </sub> | 교내 프로그래밍 동아리 **PoolC** ||
+|<sub>2024.03 ~ </sub> | 전국 대학생 연합 IT 동아리 **Codeit Boost** | 1기 |
